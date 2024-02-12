@@ -6,7 +6,7 @@ This repository contains Python code that uses a Random Forest Regressor to pred
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your_username/your_repository.git](https://github.com/OmarAshor/Gold-Price-Prediction.git)
+   git clone https://github.com/OmarAshor/Gold-Price-Prediction.git
    ```
 
 2. Install the required libraries:
